@@ -5,7 +5,8 @@
       "environment": "MAINNET",
       "addressDetailsType": "CryptoAddressDetails",
       "addressDetails": {
-        "address": "r9wf9oJizr6kgcVD5FkDUSRS2y3fLFjgAr"
+        "address": "r9wf9oJizr6kgcVD5FkDUSRS2y3fLFjgAr",
+        "tag": "9000"
       }
     }
   ],
